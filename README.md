@@ -1,3 +1,3 @@
 # demo
 
- author = i am rudra thacker 
+ author = i am rudra 
